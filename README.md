@@ -27,7 +27,7 @@
 ### キット以外に必要なもの
 |部品名|数||
 |-|-|-|
-|Pro Micro|1|Micro-B、もしくはType-C|
+|Pro Micro|1||
 |MG-812使用CO2ガスセンサアンプキット|1|[秋月電子通商](https://akizukidenshi.com/catalog/g/gK-16446/)|
 |USB ケーブル|1||
 
