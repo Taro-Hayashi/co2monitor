@@ -71,8 +71,8 @@ OLEDにピンヘッダを差し込みはんだ付けしたらメインボード�
 こちらのファイルをダウンロードしてファームウェアを書き込んでください。
 - hex
 
-https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 こちらのサイトにGoogle ChromeでアクセスするとWebブラウザ経由で書き込むことができます。
+- https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
 Chromeを使わない場合はQMK Toolboxを使ってファームウェアを書き込んでください。
 - [QMK Toolboxを使ったファームウェア更新方法](firmware.md)
