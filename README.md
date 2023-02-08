@@ -102,8 +102,5 @@ USBケーブルをPCやUSB充電器などに接続して好きなところに置
 ### ファームウェアのフォルダ  
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/cannonball
 
-### 発注用データ  
-[cannonball_plates.zip](https://github.com/Taro-Hayashi/Cannonball/releases/download/14.31/cannonball_plates.zip)    
-
 ### 販売サイト
 - BOOTH: https://tarohayashi.booth.pm/items/4500742
