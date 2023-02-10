@@ -34,7 +34,7 @@
 ### キット以外に必要なもの
 |部品名|数||
 |-|-|-|
-|Pro Micro（通常のMicro-Bのもの、もしくはType-C版）|1||
+|Pro Micro（通常のMicro-Bのもの、もしくはType-C版）|1|[遊舎工房](https://shop.yushakobo.jp/products/pro-micro)、[TALP KEYBOARD(https://talpkeyboard.net/items/61f4604eacbcb036350954b6)|
 |MG-812使用CO2ガスセンサアンプキット|1|[秋月電子通商](https://akizukidenshi.com/catalog/g/gK-16446/)|
 |USB ケーブル|1||
 
