@@ -102,7 +102,7 @@ USBケーブルをPCやUSB充電器などに接続して好きなところに置
 
 ## その他
 ### ファームウェアのコード
-
+https://github.com/Taro-Hayashi/co2monitor/tree/main/qmk_firmware/keyboards/co2monitor
 
 ### 販売サイト
 - BOOTH: https://tarohayashi.booth.pm/items/4500742
