@@ -30,8 +30,8 @@
 ### キット以外に必要なもの
 |部品名|数||
 |-|-|-|
-|Pro Micro|1|[遊舎工房](https://shop.yushakobo.jp/products/pro-micro)、[TALP KEYBOARD](https://talpkeyboard.net/items/61f4604eacbcb036350954b6)|
 |MG-812使用CO2ガスセンサアンプキット|1|[秋月電子通商](https://akizukidenshi.com/catalog/g/gK-16446/)|
+|Pro Micro|1|[遊舎工房](https://shop.yushakobo.jp/products/pro-micro)、[TALP KEYBOARD](https://talpkeyboard.net/items/61f4604eacbcb036350954b6)|
 |Micro-B USB ケーブル|1|各種キーボードショップ、100円均一など|
 
 ### オプション
@@ -52,31 +52,26 @@
 
 ## はんだ付け
 LEDをメインボード裏面にはんだ付けします。欠けがある方向と折れ曲がった白線が一致するようにしてください。
+![](img/IMG_2440.jpeg) 
 ※個体差で白線が見えにくいものがあります。写真を参考にしてください。
-
-
+![](img/IMG_2446.jpeg) 
 リセットスイッチを裏面から差し込みはんだ付けします。
-
-ピンソケットを表面に差し込みはんだ付けします。
-
+![](img/IMG_2450.jpeg) 
 Pro Microを付属のピンヘッダーで取り付けて両面をはんだ付けします。
-
+![](img/IMG_2723.jpeg) 
 付属、もしくはお好みのキースイッチを表面に差し込みはんだ付けします。
-
+![](img/IMG_2732.jpeg) 
 MG-812使用CO2ガスセンサアンプキットを組み立てます。
-ここでは付属のピンヘッダーではなくキットのコンスルーを使ってください。
-
-OLEDにピンヘッダを差し込みます。
-
-ピンヘッダーの長い側がディスプレイ側に飛び出すようにして、できるだけ短く（ディスプレイの厚みより低くなるように）切ってからはんだ付けしてください。
-
-OLEDとMG-812をメインボードに差し込みます。
-
+![](img/IMG_2457.jpeg) 
+OLEDはピンヘッダがはんだ付けされた状態でパッケージングされています。保護フィルムを剥がしてください。
+![](img/IMG_2719.jpeg) 
+OLEDとMG-812をメインボードにはんだ付けします。
+![](img/IMG_2733.jpeg) 
 動作の確認をするためにUSBケーブルでPCと接続しましょう。
 
 ### 動作テスト
 こちらのファイルをダウンロードしてファームウェアを書き込んでください。
-- hex
+- [tarohayashi_co2monitor_default.he](https://github.com/Taro-Hayashi/co2monitor/releases/download/0.19.12/tarohayashi_co2monitor_default.hex)
 
 こちらのサイトにGoogle ChromeでアクセスするとWebブラウザ経由で書き込むことができます。
 - https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
@@ -85,19 +80,21 @@ Chromeを使わない場合はQMK Toolboxを使ってファームウェアを書
 - [QMK Toolboxを使ったファームウェア更新方法](firmware.md)
 
 ディスプレイに数字が表示され、キーを押すとLEDの発行方法が変わればはんだ付けに成功しています。
+![](img/IMG_2736.jpeg) 
 
 ## 組み立て
 USBケーブルを抜いてプレートを組付けます。  
-アクリルからは保護フィルムを剥がしてください。  
-
 メインボードにスペーサーを取り付けます。
-
+![](img/IMG_2479.jpeg) 
 表面の4箇所にスペーサー（短）を差し込み、裏面は写真のようにネジとスペーサー（長）で止めます。
-
+![](img/IMG_2485.jpeg) 
+トッププレートをねじ止めします。
+![](img/IMG_2489.jpeg) 
 ボトムプレートをねじで取り付けてゴム足を貼り付けたら完成です。
-
+![](img/IMG_2494.jpeg) 
+![](img/IMG_2742.jpeg) 
 お好みでスタンドをお使いください。
-
+![](img/IMG_2748.jpeg) 
 ### 使用方法
 USBケーブルをPCやUSB充電器などに接続して好きなところに置いてください。  
 起動した後に換気をすると正しい濃度に近い数値が表示されるようになります。
