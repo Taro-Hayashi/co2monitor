@@ -71,7 +71,7 @@ OLEDとMG-812をメインボードにはんだ付けします。
 
 ### 動作テスト
 こちらのファイルをダウンロードしてファームウェアを書き込んでください。
-- [tarohayashi_co2monitor_default.he](https://github.com/Taro-Hayashi/co2monitor/releases/download/0.19.12/tarohayashi_co2monitor_default.hex)
+- [tarohayashi_co2monitor_default.hex](https://github.com/Taro-Hayashi/co2monitor/releases/download/0.19.12/tarohayashi_co2monitor_default.hex)
 
 こちらのサイトにGoogle ChromeでアクセスするとWebブラウザ経由で書き込むことができます。
 - https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
