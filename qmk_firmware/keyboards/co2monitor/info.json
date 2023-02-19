@@ -1,0 +1,38 @@
+{
+    "keyboard_name": "CO2 Monitor",
+    "manufacturer": "hayashi",
+    "maintainer": "hayashi",
+    "url": "",
+    "usb": {
+        "vid": "0x0884",
+        "pid": "0x0895",
+        "device_version": "1.0.0"
+    },
+    "processor": "atmega32u4",
+    "bootloader": "caterina",
+    "features": {
+        "rgblight": true,
+        "oled": true,
+    },
+    "bootmagic": {
+        "enabled": true
+    },
+    "build": {
+        "lto": true
+    },
+    "matrix_pins": {
+        "direct": [["B2"]]
+    },
+    "layouts": {
+        "LAYOUT_1key": {
+            "layout": [
+            { "label": "1", "matrix": [0, 0], "x": 0, "y": 0 }
+            ]
+        }
+    },
+    "rgblight": {
+        "pin": "B5",
+        "led_count": 1,
+	    "max_brightness": 225
+    }
+}
