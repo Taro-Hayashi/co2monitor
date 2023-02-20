@@ -6,7 +6,7 @@
 
 
 // CO2濃度警告の閾値
-#define ALARTTHRESHOLD 3000
+#define ALARTTHRESHOLD 2000
 // 安全圏の色
 #define SAFEHUE 150
 // 更新間隔
