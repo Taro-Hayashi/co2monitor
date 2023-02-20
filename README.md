@@ -30,8 +30,8 @@
 ### キット以外に必要なもの
 |部品名|数||
 |-|-|-|
-|MG-812使用CO2ガスセンサアンプキット|1|[秋月電子通商](https://akizukidenshi.com/catalog/g/gK-16446/)|
 |Pro Micro|1|[遊舎工房](https://shop.yushakobo.jp/products/pro-micro)、[TALP KEYBOARD](https://talpkeyboard.net/items/61f4604eacbcb036350954b6)|
+|MG-812使用CO2ガスセンサアンプキット|1|[秋月電子通商](https://akizukidenshi.com/catalog/g/gK-16446/)|
 |Micro-B USB ケーブル|1|各種キーボードショップ、100円均一など|
 
 ### オプション
