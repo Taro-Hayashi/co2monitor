@@ -1,6 +1,5 @@
 # CO2モニター自作キット
 - [キット内容](#キット内容)
-- [準備](#準備)
 - [はんだ付け](#はんだ付け)
 - [組み立て](#組み立て)
 - [その他](#その他)
@@ -27,11 +26,13 @@
 |12|キーキャップ|1||
 |13|ゴム足|6||
 
+※キースイッチ、キーキャップは写真と違うものの可能性があります。
+
 ### キット以外に必要なもの
 |部品名|数||
 |-|-|-|
-|MG-812使用CO2ガスセンサアンプキット|1|[秋月電子通商](https://akizukidenshi.com/catalog/g/gK-16446/)|
 |Pro Micro|1|[遊舎工房](https://shop.yushakobo.jp/products/pro-micro)、[TALP KEYBOARD](https://talpkeyboard.net/items/61f4604eacbcb036350954b6)|
+|MG-812使用CO2ガスセンサアンプキット|1|[秋月電子通商](https://akizukidenshi.com/catalog/g/gK-16446/)|
 |Micro-B USB ケーブル|1|各種キーボードショップ、100円均一など|
 
 ### オプション
@@ -47,8 +48,6 @@
 |はんだごて|
 |はんだ|
 |精密ドライバー|
-|ニッパー|
-|エポシキ接着剤|
 
 ## はんだ付け
 LEDをメインボード裏面にはんだ付けします。欠けがある方向と折れ曲がった白線が一致するようにしてください。
@@ -70,16 +69,16 @@ OLEDとMG-812をメインボードにはんだ付けします。
 動作の確認をするためにUSBケーブルでPCと接続しましょう。
 
 ### 動作テスト
-こちらのファイルをダウンロードしてファームウェアを書き込んでください。
+ファームウェアを書き込みます。こちらのファイルをダウンロードしてください。
 - [tarohayashi_co2monitor_default.hex](https://github.com/Taro-Hayashi/co2monitor/releases/download/0.19.12/tarohayashi_co2monitor_default.hex)
 
 こちらのサイトにGoogle ChromeでアクセスするとWebブラウザ経由で書き込むことができます。
 - https://sekigon-gonnoc.github.io/promicro-web-updater/index.html
 
-Chromeを使わない場合はQMK Toolboxを使ってファームウェアを書き込んでください。
+もしくはQMK Toolboxを使ってファームウェアを書き込んでください。
 - [QMK Toolboxを使ったファームウェア更新方法](firmware.md)
 
-ディスプレイに数字が表示され、キーを押すとLEDの発行方法が変わればはんだ付けに成功しています。
+少し待つとディスプレイに数字が表示され、キーを押すとLEDの発光方法が変わればはんだ付けに成功しています。
 ![](img/IMG_2736.jpeg) 
 
 ## 組み立て
@@ -102,7 +101,7 @@ USBケーブルをPCやUSB充電器などに接続して好きなところに置
 
 ## その他
 ### ファームウェアのコード
-
+https://github.com/Taro-Hayashi/co2monitor/tree/main/qmk_firmware/keyboards/co2monitor
 
 ### 販売サイト
 - BOOTH: https://tarohayashi.booth.pm/items/4500742
