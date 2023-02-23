@@ -9,16 +9,16 @@
 - 表示される数値は正確な濃度ではありません。換気された部屋を400ppmとした目安の値です。
 
 ## キット内容
-![](img/IMG_2716.jpeg) 
+![](img/IMG_2716.jpg) 
 ||部品名|数||
 |-|-|-|-|
 |1|メインボード|1||
 |2|トッププレート|1||
 |3|ボトムプレート|1||
 |4|スタンド|1||
-|5|スペーサー（短）|4|M2 6mm|
-|6|スペーサー（長）|2|M2 9mm|
-|7|ねじ|6|M2 6mm|
+|5|スペーサー（短）|2|M2 6mm|
+|6|スペーサー（長）|4|M2 9mm|
+|7|ねじ|8|M2 6mm|
 |8|リセットスイッチ|1||
 |9|LED|1|SK6812MINI-E|
 |10|OLED|1||
@@ -101,7 +101,7 @@ USBケーブルをPCやUSB充電器などに接続して好きなところに置
 
 ## その他
 ### ファームウェアのコード
-https://github.com/Taro-Hayashi/co2monitor/tree/main/qmk_firmware/keyboards/co2monitor
+https://github.com/Taro-Hayashi/co2monitor/tree/main/qmk_firmware/keyboards/tarohayashi/co2monitor
 
 ### 販売サイト
 - BOOTH: https://tarohayashi.booth.pm/items/4500742
