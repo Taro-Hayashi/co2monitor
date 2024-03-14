@@ -96,14 +96,13 @@ USBケーブルを抜いてプレートを組付けます。
 ![](img/IMG_2742.jpeg) 
 お好みでスタンドをお使いください。
 ![](img/IMG_2748.jpeg) 
-### 使用方法
 USBケーブルをPCやUSB充電器などに接続して好きなところに置いてください。  
-一度換気をするとより正しい濃度に近い数値が表示されるようになります。
-
 
 ## その他
+
 ### ファームウェアのコード
 https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/archive/co2monitor
+
 
 ### 販売サイト
 - BOOTH: https://tarohayashi.booth.pm/items/4500742
