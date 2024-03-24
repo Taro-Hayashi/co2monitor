@@ -102,7 +102,7 @@ USBケーブルをPCやUSB充電器などに接続して好きなところに置
 - PCのUSBからの電力供給は負荷やスリープなどで安定しないので動作確認後はUSB充電器への接続がおすすめです。  
 
 ### ファームウェアのコード
-https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/archive/co2monitor
+https://github.com/Taro-Hayashi/qmk_firmware/tree/tarohayashi/keyboards/tarohayashi/co2monitor
 
 ### 販売サイト
 - BOOTH: https://tarohayashi.booth.pm/items/4500742
